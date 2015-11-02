@@ -22,6 +22,5 @@ contrast with the "raft.github.io" text.  The font used is v1.x of
 
     Copyright 2015 Andrea Ruygt.
     Copyright 2015 Diego Ongaro.
-    
     Licensed under the Creative Commons Attribution-4.0 International
     License, available at https://creativecommons.org/licenses/by/4.0/
