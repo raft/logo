@@ -5,7 +5,8 @@
 
 
 The original files [annie-solo.png](annie-solo.png) and
-[annie-sticker.png](annie-sticker.png) are available under:
+[annie-sticker.png](annie-sticker.png), were re-encoded using the OxiPNG
+codec via https://squoosh.app, and are available under:
 
     Copyright 2015 Andrea Ruygt.
     Licensed under the Creative Commons Attribution-4.0 International
